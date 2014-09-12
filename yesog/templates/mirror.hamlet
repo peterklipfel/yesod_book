@@ -1,0 +1,4 @@
+<h1> Enter text to be reversed
+<form method=post action=@{MirrorR}>
+    <input type=text name=content>
+    <input type=submit>
